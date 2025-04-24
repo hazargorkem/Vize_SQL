@@ -1,12 +1,12 @@
-# Vize_SQL
-SQL dersi vize sınavı dokümanları şu şekildedir:
-  Proje rapor dosyaları belgelere atılan proje numaraları ile isimlendirilmiştir :
-      PROJE7_RAPOR
-      PROJE3_RAPOR
-      PROJE2_RAPOR
-  Proje uygulanamasını anlatan videolar şu şekilde isimlendirilmiştir : 
-      PROJE7_VİDEO
-      PROJE3_VİDEO
-      PROJE2_VİDEO
+PROJE 2: Veritabanı Yedekleme ve Felaketten Kurtarma Planı Projesi Raporu
+https://drive.google.com/file/d/1SLPrBnPWFqMmcg2YmfO0m-M9kiikbcDH/view?usp=sharing
 
-Proje'de kullanılan veritabanının yedeği github'a atılmıştır.
+
+PROJE 7: Veritabanı Yedekleme ve Otomasyon Çalışması Projesi Raporu
+https://drive.google.com/file/d/1FMWYHwy0LnH-VbrggE642TvJnqPFK-ME/view?usp=sharing
+
+
+PROJE 3: Veritabanı Güvenliği ve Erişim Kontrolü Projesi Raporu
+https://drive.google.com/file/d/1mWj1CRg2q7rNdn3HT_MspppJ3pjV9KVQ/view?usp=sharing
+
+
